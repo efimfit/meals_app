@@ -1,6 +1,6 @@
 # Meals App
 
-![app](app.gif)
+![app](assets/images/app.gif)
 
 
 The app allows the user to select cuisine and meals. The user can view the recipe and add the meals to favorites. It is also possible to filter meals by the presence of certain ingredients in them.
