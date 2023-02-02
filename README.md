@@ -12,9 +12,9 @@ Flutter 3.3.10 • Dart 2.18.6
 
 `flutter_bloc 8.1.1` library is used for implementing BLoC pattern.
 
-A cubit with a mock repository was used for cuisines.
+A cubit with a mock repository is used for cuisines.
 
-A bloc with a mock repository for meals.
+A bloc with a mock repository - for meals.
 ___
 
 *NOTE* since this project is a pet project, cases of overengineering are possible
